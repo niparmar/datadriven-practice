@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/still_timber), committed h
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The First Encounter](./practice/python/the-first-encounter) | Python | Easy | 2026-10-27 |
 | [Single File](./practice/python/single-file) | Python | Easy | 2026-10-27 |
 
 <!-- datadriven:index:end -->
