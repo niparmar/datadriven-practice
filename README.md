@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/still_timber), committed h
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Tree Measurer](./practice/python/the-tree-measurer) | Python | Easy | 2026-10-29 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-10-27 |
 | [The First Encounter](./practice/python/the-first-encounter) | Python | Easy | 2026-10-27 |
 | [Single File](./practice/python/single-file) | Python | Easy | 2026-10-27 |
