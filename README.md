@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/still_timber), committed h
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Priority Queue](./practice/python/the-priority-queue) | Python | Medium | 2026-11-06 |
 | [Execution Timer Wrapper](./practice/python/execution-timer-wrapper) | Python | Medium | 2026-10-31 |
 | [The Tree Measurer](./practice/python/the-tree-measurer) | Python | Easy | 2026-10-29 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-10-27 |
